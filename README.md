@@ -7,8 +7,8 @@ __bold items denote files and folders__
 1. download __imperative things__ folder
 set up proxy
 **skip steps 2&3 if you are not connected to BLUESSO while following these instructions**
-2. _set HTTP_PROXY=http://iss-americas-pitc-cincinnatiz.proxy.corporate.ge.com:80
-3. set HTTPS_PROXY=http://iss-americas-pitc-cincinnatiz.proxy.corporate.ge.com:80_
+2. *set HTTP_PROXY=http://iss-americas-pitc-cincinnatiz.proxy.corporate.ge.com:80
+3. set HTTPS_PROXY=http://iss-americas-pitc-cincinnatiz.proxy.corporate.ge.com:80*
 install python
 4. double click on the file python-2.7.14.amd64.msi in the __imperative things/install files__ folder and follow the default setup instructions
 5. Open command prompt (click the windows logo in the bottom left corner and type command prompt to open the application)
