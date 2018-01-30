@@ -1,7 +1,5 @@
 # fileCrawler
 
-instructions - base code for python script that parses .doc, .pdf, &amp; .xls(x) files for key words
-
 _run italicized lines in the command prompt window by copying & pasting them in and hitting enter_
 __bold items denote files and folders__
  
