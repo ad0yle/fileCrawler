@@ -1,0 +1,2986 @@
+
+Parsed 121 PPT/PPTX files.
+Parsed 6 PDF files.
+Parsed 63 DOCX files.
+
+
+20152TPWADV01_Alstom_Integration___Finance_PPA_WPC.docx
+----------------------
+Audit appears 1 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 1 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+20153TPWADV13_Grid_Finance_WPC.docx
+----------------------
+Audit appears 1 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 1 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+20161TEMADV_Alstom Integration_Grid Finance_WPC.docx
+----------------------
+Audit appears 1 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 1 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+20162TECADV_Alstom Integration_Grid Finance_WPC.docx
+----------------------
+Audit appears 1 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 1 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+20163TOGASR - OG - SSD - Balance Sheet and Contracts - Audit WP_012017_FINAL (1).docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+20171TCASR_ Grid Solutions_Project Close Out & DC-PC Account Rec Schedule II.docx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+20171TCASR_ Grid Solutions_RAI_Contingencies_End Margin Variation_Schedule II_051617.docx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 1 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+20171TCASR_ Grid Solutions_RAI_Contingencies_PMR Governance_Schedule II_Final.docx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 1 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+20171TCORPASR01 - schedule II - Energy Connections Grid Solutions - GRNI.docx
+----------------------
+Audit appears 1 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+20171TCORPASR01_ PS Schedule II_Factoring of RU debtrs' AR_May 18 2017.docx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+20171TECASR_WPA_Foreign Exchange.docx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+20171TECASR_WPA_SW Cap.docx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 1 times
+Warranty appears 0 times
+**Read this document**
+
+20171TECASR_WPB_SW Cap_C01. Management review of external software balance.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+20171TECASR_WPB_SW Cap_C02. Management review of internal software balance.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+20171TECASR_WPB_SW Cap_C03. Management review of annual impairment review.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+20171TTECASR_Grid Balance Sheet Audit_WPA_AR.docx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 1 times
+Warranty appears 1 times
+**Read this document**
+
+20171TTECASR_Grid Balance Sheet Audit_WPA_PMR_Reviewed.docx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 1 times
+Warranty appears 1 times
+**Read this document**
+
+20171TTECASR_Grid Balance Sheet Audit_WPA_Tax.docx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 1 times
+Warranty appears 1 times
+**Read this document**
+
+20172TCORPASR01 _Schedule II_70068_MX_Special Payments_Closure Documentation.docx
+----------------------
+Audit appears 1 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+20172TECASR_Rev Rec 81-1_HQ_PMR Occurrence_WPB_09032017_1000.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+20172TECASR_Rev Rec 81-1_HQ_Project Closure_09032017_1010.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+20173TECASR01 _Schedule II_00058_Warranty_Closure Documentation.docx
+----------------------
+Audit appears 0 times
+Project appears 1 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+20173TECASR01 _Schedule II_01303_Embedded_Derivatives_Closure Documentation.docx
+----------------------
+Audit appears 1 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+20173TECASR01 _Schedule II_01315_Intercompany_Closure Documentation.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+20173TECASR01 _Schedule II_01325_DC_PC_AR_Closeout_Closure Documentation.docx
+----------------------
+Audit appears 0 times
+Project appears 1 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+20173TECASR01 _Schedule II_01327_RAI_Contingencies_NegCTC_Closeout_Closure Documentation.docx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 1 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+20173TECASR01 _Schedule II_01335_GRNI_Closure Documentation.docx
+----------------------
+Audit appears 1 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Accounting for SOP 81-1 Contracts FINAL.docx
+----------------------
+Audit appears 0 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Alstom Grid_OI_FI 19_cash collection 2013 09.docx
+----------------------
+Audit appears 0 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Alstom Grid_OI_FI 54_Alnet Instruction 2013 10 17.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Alstom Grid_OI_FI 56_Bank Account Management 2013 11 18.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+Badr claim submission no 3.docx
+----------------------
+Audit appears 0 times
+Project appears 1 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+DC PC AR SCHEDULE II.docx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+EMBEDDED DERIVATIVES SCHEDULE II.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+FI 63 - Bad Debt Policy 3Q'16.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+FI 64 Alstom Warranty Reserve Policy FINAL 5_July_2017.docx
+----------------------
+Audit appears 0 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 1 times
+Warranty appears 1 times
+**Read this document**
+
+FI08 - Switch to Office 0365.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+FI62_Grid Solutions Revenue Recognition Policy_March 2016.docx
+----------------------
+Audit appears 0 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 1 times
+Warranty appears 1 times
+**Read this document**
+
+GE GRID Sol_FX Instruction_FI 61_20160222.docx
+----------------------
+Audit appears 0 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Global B2P SII_Alstom.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+GO Alstom - Fixed Assets SII.docx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Grid SII v SS II v Global SII.docx
+----------------------
+Audit appears 1 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+GRNI SII_Global.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+Hydro Brazil - AER GAAP to Stat 2017 03 29v21h_com comments Lidiane.docx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+ID_AP-2017-00026_AlstomRemeasurement.docx
+----------------------
+Audit appears 1 times
+Project appears 0 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+INTERCOMPANY SCHEDULE II.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+InvisalignAppeal1.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+Mail Merge Email.docx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+New Warranty Policy.docx
+----------------------
+Audit appears 0 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 1 times
+Warranty appears 1 times
+**Read this document**
+
+Original SII (1T17).docx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 1 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+RAI SCHEDULE II.docx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 1 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Schedule II - Embedded Derivatives - SLT Edits.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+Schedule II - Intercompany.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+SII Projects Team Memo.docx
+----------------------
+Audit appears 0 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+WPA_Template.docx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 1 times
+GAAP appears 1 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+WPB_Template.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+WPB_Template_CAS_C01 SOL.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+WPB_Template_CAS_C02 Revenue recognition.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+WPB_Template_CAS_C05 Cost accumulation.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+WPB_Template_CAS_C06 CTC.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+WPB_Template_CAS_C07 RAI.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+WPB_Template_CAS_C08 Billings.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+WPC_Template.docx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+1Q17 Hydro-RSP USGAAP 81-1 PPA push down v2.pptx
+----------------------
+Audit appears 0 times
+Project appears 35 times
+Accounting appears 2 times
+Controllership appears 15 times
+SOX appears 0 times
+GAAP appears 3 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 2 times
+**Read this document**
+
+1T17 EC REN - FinalOp - 5.8.2017.pptx
+----------------------
+Audit appears 17 times
+Project appears 6 times
+Accounting appears 0 times
+Controllership appears 3 times
+SOX appears 2 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 2 times
+**Read this document**
+
+2016 Q2 EC Intangible Asset Reviews.pptx
+----------------------
+Audit appears 0 times
+Project appears 12 times
+Accounting appears 1 times
+Controllership appears 4 times
+SOX appears 1 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 1 times
+Warranty appears 0 times
+**Read this document**
+
+2017 08 23 Wellness Village PR17.pptx
+----------------------
+Audit appears 0 times
+Project appears 14 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 3 times
+**Read this document**
+
+2017 EC Project Transformation_R.Stokes_Final_100417 (002).pptx
+----------------------
+Audit appears 0 times
+Project appears 122 times
+Accounting appears 2 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 19 times
+Warranty appears 0 times
+**Read this document**
+
+2017-10- GIS Quality Report (BADR).pptx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+20171TCASR_Grid Solutions_RAI_Contingencies_End Margin Variation_Schedule II_051617.pptx
+----------------------
+Audit appears 7 times
+Project appears 59 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 7 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+20171TCORPASR01 - Grid Solutions GRNI SII.pptx
+----------------------
+Audit appears 5 times
+Project appears 48 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 2 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+20171TECASR_WPA_Project reviews_Process Map.pptx
+----------------------
+Audit appears 0 times
+Project appears 59 times
+Accounting appears 5 times
+Controllership appears 2 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 28 times
+**Read this document**
+
+317 Grid audit_606.pptx
+----------------------
+Audit appears 2 times
+Project appears 6 times
+Accounting appears 2 times
+Controllership appears 1 times
+SOX appears 1 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+317 Grid audit_Audit update templates.pptx
+----------------------
+Audit appears 15 times
+Project appears 14 times
+Accounting appears 3 times
+Controllership appears 1 times
+SOX appears 1 times
+GAAP appears 0 times
+Testwork appears 2 times
+Workpaper appears 0 times
+Deep Dive appears 3 times
+Digital appears 3 times
+Warranty appears 1 times
+**Read this document**
+
+317 Grid audit_PPA amortization_Mabry_101017.pptx
+----------------------
+Audit appears 1 times
+Project appears 7 times
+Accounting appears 3 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+317 Grid audit_Project risk assessment_092917.pptx
+----------------------
+Audit appears 6 times
+Project appears 18 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+317 Grid audit_Project scope_100417.pptx
+----------------------
+Audit appears 15 times
+Project appears 21 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+317 Grid audit_Projects audit_1210.pptx
+----------------------
+Audit appears 9 times
+Project appears 15 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+317 Grid audit_Risk assessment draft_100317.pptx
+----------------------
+Audit appears 14 times
+Project appears 19 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+317 Grid audit_Risk assessment draft_100417.pptx
+----------------------
+Audit appears 15 times
+Project appears 19 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+317 Grid audit_Risk assessment draft_100517.pptx
+----------------------
+Audit appears 15 times
+Project appears 19 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+317 Grid audit_Risk assessment draft_100817.pptx
+----------------------
+Audit appears 16 times
+Project appears 29 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 2 times
+**Read this document**
+
+317 Grid audit_Risk assessment draft_101017_0100.pptx
+----------------------
+Audit appears 2 times
+Project appears 7 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+317 Grid audit_Risk assessment draft_101017_1730.pptx
+----------------------
+Audit appears 2 times
+Project appears 7 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+317 Grid audit_Risk assessment draft_101017_1735.pptx
+----------------------
+Audit appears 7 times
+Project appears 12 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+317 Grid audit_Risk assessment master.pptx
+----------------------
+Audit appears 19 times
+Project appears 41 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 4 times
+**Read this document**
+
+3T17 - Grid Audit Coverage_V3.pptx
+----------------------
+Audit appears 4 times
+Project appears 3 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 - Grid Audit Coverage_V4.pptx
+----------------------
+Audit appears 6 times
+Project appears 22 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 1 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Audit Plan_ALD.pptx
+----------------------
+Audit appears 3 times
+Project appears 1 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 3 times
+**Read this document**
+
+3T17 CAS - Team_Meeting.pptx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+3T17 CAS EC Grid - Dlog Summary_12112017.pptx
+----------------------
+Audit appears 1 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 CAS EC Grid - Dlog Summary_12132017.pptx
+----------------------
+Audit appears 1 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 CAS Rev Rec_Horizontal risk assessment_JM_Strawman_100517.pptx
+----------------------
+Audit appears 5 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 EC_SAM Facepage_092517.pptx
+----------------------
+Audit appears 6 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid Audit - PPA Amortization - Week 2 - 10112017 - AB.pptx
+----------------------
+Audit appears 15 times
+Project appears 10 times
+Accounting appears 2 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid Audit - PPA Amortization - Week 3 - 10172017 - AB.pptx
+----------------------
+Audit appears 12 times
+Project appears 10 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid Audit - PPA Amortization - Week 4 - 10252017 - AB.pptx
+----------------------
+Audit appears 11 times
+Project appears 3 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid Audit - PPA Amortization - Week 4 - 10262017 - AB.pptx
+----------------------
+Audit appears 10 times
+Project appears 3 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid Audit - PPA Amortization - Week 5 - 10312017 - AB.pptx
+----------------------
+Audit appears 13 times
+Project appears 6 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid Audit - PPA Amortization - Week 5 - 11012017 - AB.pptx
+----------------------
+Audit appears 4 times
+Project appears 3 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid Audit - PPA Amortization - Week 6 - 11052017 - AB.pptx
+----------------------
+Audit appears 12 times
+Project appears 6 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid Audit - PPA Amortization - Week 6 - 11062017 - AB.pptx
+----------------------
+Audit appears 12 times
+Project appears 6 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid Audit - PPA Amortization - Week 6 - 11082017 - AB.pptx
+----------------------
+Audit appears 14 times
+Project appears 6 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid Audit - PPA Amortization - Week 7 - 11132017 - AB.pptx
+----------------------
+Audit appears 12 times
+Project appears 3 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid Audit - PPA Amortization - Week 7 - Calcul details for TMabry.pptx
+----------------------
+Audit appears 12 times
+Project appears 3 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid Audit - PPA Amortization - Week 8 - 11142017 - AB_MIDOP.pptx
+----------------------
+Audit appears 1 times
+Project appears 2 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid Audit - PPA Amortization - Week 9 - 11272017 - AB.pptx
+----------------------
+Audit appears 7 times
+Project appears 3 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid Audit - PPA Amortization - Week 9 - 11282017 - AB.pptx
+----------------------
+Audit appears 3 times
+Project appears 2 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid Audit - PPA Amortization - Week 9 - 11292017 - AB.pptx
+----------------------
+Audit appears 7 times
+Project appears 3 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid audit_Portfolio Coverage & CM_101517.pptx
+----------------------
+Audit appears 0 times
+Project appears 4 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid audit_Week 10 Projects update_112917.pptx
+----------------------
+Audit appears 3 times
+Project appears 9 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid audit_Week 4 MENAT update_101817_1030.pptx
+----------------------
+Audit appears 10 times
+Project appears 22 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+3T17 Grid audit_Week 4 MENAT update_1024-1am (002).pptx
+----------------------
+Audit appears 9 times
+Project appears 15 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+3T17 Grid audit_Week 4 MENAT update_1025_Draft.pptx
+----------------------
+Audit appears 9 times
+Project appears 24 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 3 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+3T17 Grid audit_Week 4 Projects update_101817.pptx
+----------------------
+Audit appears 15 times
+Project appears 21 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+3T17 Grid audit_Week 4 update_TVR_101917.pptx
+----------------------
+Audit appears 14 times
+Project appears 15 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+3T17 Grid audit_Week 5 MENAT update_1025_Final.pptx
+----------------------
+Audit appears 16 times
+Project appears 33 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 3 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+3T17 Grid audit_Week 5 Projects update_102617.pptx
+----------------------
+Audit appears 12 times
+Project appears 24 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 2 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+3T17 Grid audit_Week 7 MENAT update_11082017.pptx
+----------------------
+Audit appears 12 times
+Project appears 24 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 7 times
+**Read this document**
+
+3T17 Grid audit_Week 7 Projects update_110817.pptx
+----------------------
+Audit appears 8 times
+Project appears 10 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 2 times
+**Read this document**
+
+3T17 Grid audit_Week 8 Projects update_111317.pptx
+----------------------
+Audit appears 8 times
+Project appears 13 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid audit_Week 9 MENAT update_11122017 MENAT_.pptx
+----------------------
+Audit appears 0 times
+Project appears 5 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 6 times
+**Read this document**
+
+3T17 Grid_Facepage.pptx
+----------------------
+Audit appears 4 times
+Project appears 5 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Grid_Facepage_092517.pptx
+----------------------
+Audit appears 4 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Midop - Legacy EC - 13Nov17.pptx
+----------------------
+Audit appears 17 times
+Project appears 23 times
+Accounting appears 2 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 2 times
+Digital appears 0 times
+Warranty appears 12 times
+**Read this document**
+
+3T17 Midop - Legacy EC - 13Nov17_Final.pptx
+----------------------
+Audit appears 10 times
+Project appears 17 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+3T17 Process Maps.pptx
+----------------------
+Audit appears 0 times
+Project appears 65 times
+Accounting appears 5 times
+Controllership appears 2 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 39 times
+**Read this document**
+
+3T17 Renewables EC Facepages.pptx
+----------------------
+Audit appears 45 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+3T17 Transition - Grid Audit.pptx
+----------------------
+Audit appears 26 times
+Project appears 49 times
+Accounting appears 1 times
+Controllership appears 3 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 6 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+D1 FOREX PROJECTS ANALYTIC GRID SOLUTIONS_ October  2015 MASTER FILE V3.pptx
+----------------------
+Audit appears 0 times
+Project appears 65 times
+Accounting appears 24 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 4 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+DC_PC Account Rec and Project Closeout_Schedule II_Final.pptx
+----------------------
+Audit appears 9 times
+Project appears 73 times
+Accounting appears 2 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 2 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+DPG - Margin Variation Details KUSD.pptx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+DPG Sector PR Sept 17 final.pptx
+----------------------
+Audit appears 0 times
+Project appears 14 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+EAS Presentation October 28.pptx
+----------------------
+Audit appears 0 times
+Project appears 25 times
+Accounting appears 2 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 4 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 3 times
+**Read this document**
+
+EC Grid 81-1 contract backlog intangible - 3Q16 10_12_2016.pptx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+EC Interco Policy Final.pptx
+----------------------
+Audit appears 0 times
+Project appears 1 times
+Accounting appears 6 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+ED's training GRID_Treasury_Dec2017.pptx
+----------------------
+Audit appears 0 times
+Project appears 1 times
+Accounting appears 2 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 2 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+FI 07 - Training V11.pptx
+----------------------
+Audit appears 0 times
+Project appears 29 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 5 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Final Negative CTC Write-up.pptx
+----------------------
+Audit appears 1 times
+Project appears 10 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Final Warranty Recommendation v2.pptx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 4 times
+**Read this document**
+
+Final Warranty Recommendation v3.pptx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 4 times
+**Read this document**
+
+Final Warranty Recommendation.pptx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 5 times
+**Read this document**
+
+Grid CAS Ops 120717.pptx
+----------------------
+Audit appears 0 times
+Project appears 12 times
+Accounting appears 0 times
+Controllership appears 4 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Grid Schedule IIs.pptx
+----------------------
+Audit appears 6 times
+Project appears 2 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 2 times
+**Read this document**
+
+Grid SII Closure Deck.pptx
+----------------------
+Audit appears 24 times
+Project appears 1 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 12 times
+**Read this document**
+
+Grid SII Closure One-Pager.pptx
+----------------------
+Audit appears 8 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 2 times
+**Read this document**
+
+Grid SII Closure Two-Pager.pptx
+----------------------
+Audit appears 13 times
+Project appears 1 times
+Accounting appears 0 times
+Controllership appears 4 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 9 times
+**Read this document**
+
+Grid Solutions FRP_Q2 2017_FINAL 14-July-17.pptx
+----------------------
+Audit appears 2 times
+Project appears 17 times
+Accounting appears 2 times
+Controllership appears 2 times
+SOX appears 2 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 4 times
+**Read this document**
+
+Grid Solutions_RAI_Contingencies_PMR Governance Schedule II_051617.pptx
+----------------------
+Audit appears 7 times
+Project appears 59 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 7 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Grid training_Rev Rec V5.pptx
+----------------------
+Audit appears 0 times
+Project appears 51 times
+Accounting appears 12 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 23 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 8 times
+**Read this document**
+
+Grid training_Rev Rec VOct2015.pptx
+----------------------
+Audit appears 1 times
+Project appears 43 times
+Accounting appears 12 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 21 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+GRNI Policy Overview.pptx
+----------------------
+Audit appears 0 times
+Project appears 2 times
+Accounting appears 9 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+GS Introduction - CAS - sent Sept 2017.pptx
+----------------------
+Audit appears 0 times
+Project appears 3 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 5 times
+Warranty appears 0 times
+**Read this document**
+
+Interco Schedule II - 10th Nov.pptx
+----------------------
+Audit appears 1 times
+Project appears 5 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Interco Schedule II - 17th Nov.pptx
+----------------------
+Audit appears 1 times
+Project appears 6 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+Intercompany community.pptx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+ITO RoR Training material_R7V2.pptx
+----------------------
+Audit appears 0 times
+Project appears 21 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Keops - General User Guide - T@is - 201406.pptx
+----------------------
+Audit appears 2 times
+Project appears 121 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+Keops General User Guide_Nov 2015.pptx
+----------------------
+Audit appears 2 times
+Project appears 97 times
+Accounting appears 15 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 1 times
+Warranty appears 0 times
+**Read this document**
+
+Legacy AG NAM - Cash Reconciliations - 7.19.2017.pptx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+Negative CTC & Warranty.pptx
+----------------------
+Audit appears 0 times
+Project appears 6 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 4 times
+**Read this document**
+
+Negative CTC Process Map.pptx
+----------------------
+Audit appears 0 times
+Project appears 4 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Negative CTC.pptx
+----------------------
+Audit appears 2 times
+Project appears 10 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+New DC-PC-AR Policy (Work Instructions).pptx
+----------------------
+Audit appears 1 times
+Project appears 69 times
+Accounting appears 4 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 29 times
+**Read this document**
+
+November 17 Interco Balance Confirmation process.pptx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+October  PR .pptx
+----------------------
+Audit appears 0 times
+Project appears 3 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+PM function - Training on Quality Mgt System_v171016.pptx
+----------------------
+Audit appears 3 times
+Project appears 40 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+PM function - Training on Tableau tool_v171016.pptx
+----------------------
+Audit appears 0 times
+Project appears 44 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 1 times
+Warranty appears 0 times
+**Read this document**
+
+Process Map.pptx
+----------------------
+Audit appears 0 times
+Project appears 2 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Project Control training- October 16-final version.pptx
+----------------------
+Audit appears 3 times
+Project appears 14 times
+Accounting appears 3 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+Project governance cycle_rev2017.01.16 FD TP31012017.pptx
+----------------------
+Audit appears 0 times
+Project appears 69 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 1 times
+Warranty appears 0 times
+**Read this document**
+
+Project Transformation Deck.pptx
+----------------------
+Audit appears 0 times
+Project appears 122 times
+Accounting appears 2 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 19 times
+Warranty appears 0 times
+**Read this document**
+
+Projects Schedule II Update 061017 V1.pptx
+----------------------
+Audit appears 0 times
+Project appears 37 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 1 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Projects Schedule II Update 3-AUG-17.pptx
+----------------------
+Audit appears 0 times
+Project appears 16 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+RAM - Overview 20170823.pptx
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Sector Review_Mar-17_14IN06.pptx
+----------------------
+Audit appears 0 times
+Project appears 9 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 1 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+SII Regional Pulse.pptx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+SOP81-1-Warranty Process-June 2017.pptx
+----------------------
+Audit appears 2 times
+Project appears 127 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 1 times
+Warranty appears 138 times
+**Read this document**
+
+SOX GRID Project Management review 2016 12 22 v2- Responses to KPMG.pptx
+----------------------
+Audit appears 2 times
+Project appears 126 times
+Accounting appears 4 times
+Controllership appears 0 times
+SOX appears 1 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 1 times
+Warranty appears 0 times
+**Read this document**
+
+SPEAK4GE Presentation and Authentication 20160106 v3.pptx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+Team Meeting Deck.pptx
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+TMabry - legacy EC HQ Cship CAS Update_101917.pptx
+----------------------
+Audit appears 8 times
+Project appears 5 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+TMabry - legacy EC HQ Cship CAS Update_102517.pptx
+----------------------
+Audit appears 8 times
+Project appears 5 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Unifer Demo.pptx
+----------------------
+Audit appears 0 times
+Project appears 15 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Advisory workpaper - TW links.pdf
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 0 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 1 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+Alstom Grid - 16 03 2016 v2.pdf
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+Alstom Grid_OI_FI 11  Project Reviews Financial Section Rev B.pdf
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+Archive_20171TECASR_WPA_Foreign Exchange_GE GAP 830.10 Foreign Exchange.pdf
+----------------------
+Audit appears 1 times
+Project appears 0 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 1 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+**Read this document**
+
+Archive_20171TECASR_WPA_Foreign Exchange_Grid Solutions Derivatives Policy.pdf
+----------------------
+Audit appears 0 times
+Project appears 0 times
+Accounting appears 0 times
+Controllership appears 0 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 0 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 0 times
+
+ASC 605-35 Cycle Training.pdf
+----------------------
+Audit appears 1 times
+Project appears 1 times
+Accounting appears 1 times
+Controllership appears 1 times
+SOX appears 0 times
+GAAP appears 0 times
+Testwork appears 1 times
+Workpaper appears 0 times
+Deep Dive appears 0 times
+Digital appears 0 times
+Warranty appears 1 times
+**Read this document**
+
+Summary
+----------------------
+Read the following 111/121 scanned PPT/PPTX documents:
+1Q17 Hydro-RSP USGAAP 81-1 PPA push down v2.pptx
+1T17 EC REN - FinalOp - 5.8.2017.pptx
+2016 Q2 EC Intangible Asset Reviews.pptx
+2017 08 23 Wellness Village PR17.pptx
+2017 EC Project Transformation_R.Stokes_Final_100417 (002).pptx
+20171TCASR_Grid Solutions_RAI_Contingencies_End Margin Variation_Schedule II_051617.pptx
+20171TCORPASR01 - Grid Solutions GRNI SII.pptx
+20171TECASR_WPA_Project reviews_Process Map.pptx
+317 Grid audit_606.pptx
+317 Grid audit_Audit update templates.pptx
+317 Grid audit_PPA amortization_Mabry_101017.pptx
+317 Grid audit_Project risk assessment_092917.pptx
+317 Grid audit_Project scope_100417.pptx
+317 Grid audit_Projects audit_1210.pptx
+317 Grid audit_Risk assessment draft_100317.pptx
+317 Grid audit_Risk assessment draft_100417.pptx
+317 Grid audit_Risk assessment draft_100517.pptx
+317 Grid audit_Risk assessment draft_100817.pptx
+317 Grid audit_Risk assessment draft_101017_0100.pptx
+317 Grid audit_Risk assessment draft_101017_1730.pptx
+317 Grid audit_Risk assessment draft_101017_1735.pptx
+317 Grid audit_Risk assessment master.pptx
+3T17 - Grid Audit Coverage_V3.pptx
+3T17 - Grid Audit Coverage_V4.pptx
+3T17 Audit Plan_ALD.pptx
+3T17 CAS EC Grid - Dlog Summary_12112017.pptx
+3T17 CAS EC Grid - Dlog Summary_12132017.pptx
+3T17 CAS Rev Rec_Horizontal risk assessment_JM_Strawman_100517.pptx
+3T17 EC_SAM Facepage_092517.pptx
+3T17 Grid Audit - PPA Amortization - Week 2 - 10112017 - AB.pptx
+3T17 Grid Audit - PPA Amortization - Week 3 - 10172017 - AB.pptx
+3T17 Grid Audit - PPA Amortization - Week 4 - 10252017 - AB.pptx
+3T17 Grid Audit - PPA Amortization - Week 4 - 10262017 - AB.pptx
+3T17 Grid Audit - PPA Amortization - Week 5 - 10312017 - AB.pptx
+3T17 Grid Audit - PPA Amortization - Week 5 - 11012017 - AB.pptx
+3T17 Grid Audit - PPA Amortization - Week 6 - 11052017 - AB.pptx
+3T17 Grid Audit - PPA Amortization - Week 6 - 11062017 - AB.pptx
+3T17 Grid Audit - PPA Amortization - Week 6 - 11082017 - AB.pptx
+3T17 Grid Audit - PPA Amortization - Week 7 - 11132017 - AB.pptx
+3T17 Grid Audit - PPA Amortization - Week 7 - Calcul details for TMabry.pptx
+3T17 Grid Audit - PPA Amortization - Week 8 - 11142017 - AB_MIDOP.pptx
+3T17 Grid Audit - PPA Amortization - Week 9 - 11272017 - AB.pptx
+3T17 Grid Audit - PPA Amortization - Week 9 - 11282017 - AB.pptx
+3T17 Grid Audit - PPA Amortization - Week 9 - 11292017 - AB.pptx
+3T17 Grid audit_Portfolio Coverage & CM_101517.pptx
+3T17 Grid audit_Week 10 Projects update_112917.pptx
+3T17 Grid audit_Week 4 MENAT update_101817_1030.pptx
+3T17 Grid audit_Week 4 MENAT update_1024-1am (002).pptx
+3T17 Grid audit_Week 4 MENAT update_1025_Draft.pptx
+3T17 Grid audit_Week 4 Projects update_101817.pptx
+3T17 Grid audit_Week 4 update_TVR_101917.pptx
+3T17 Grid audit_Week 5 MENAT update_1025_Final.pptx
+3T17 Grid audit_Week 5 Projects update_102617.pptx
+3T17 Grid audit_Week 7 MENAT update_11082017.pptx
+3T17 Grid audit_Week 7 Projects update_110817.pptx
+3T17 Grid audit_Week 8 Projects update_111317.pptx
+3T17 Grid audit_Week 9 MENAT update_11122017 MENAT_.pptx
+3T17 Grid_Facepage.pptx
+3T17 Grid_Facepage_092517.pptx
+3T17 Midop - Legacy EC - 13Nov17.pptx
+3T17 Midop - Legacy EC - 13Nov17_Final.pptx
+3T17 Process Maps.pptx
+3T17 Renewables EC Facepages.pptx
+3T17 Transition - Grid Audit.pptx
+D1 FOREX PROJECTS ANALYTIC GRID SOLUTIONS_ October  2015 MASTER FILE V3.pptx
+DC_PC Account Rec and Project Closeout_Schedule II_Final.pptx
+DPG Sector PR Sept 17 final.pptx
+EAS Presentation October 28.pptx
+EC Interco Policy Final.pptx
+ED's training GRID_Treasury_Dec2017.pptx
+FI 07 - Training V11.pptx
+Final Negative CTC Write-up.pptx
+Final Warranty Recommendation v2.pptx
+Final Warranty Recommendation v3.pptx
+Final Warranty Recommendation.pptx
+Grid CAS Ops 120717.pptx
+Grid Schedule IIs.pptx
+Grid SII Closure Deck.pptx
+Grid SII Closure One-Pager.pptx
+Grid SII Closure Two-Pager.pptx
+Grid Solutions FRP_Q2 2017_FINAL 14-July-17.pptx
+Grid Solutions_RAI_Contingencies_PMR Governance Schedule II_051617.pptx
+Grid training_Rev Rec V5.pptx
+Grid training_Rev Rec VOct2015.pptx
+GRNI Policy Overview.pptx
+GS Introduction - CAS - sent Sept 2017.pptx
+Interco Schedule II - 10th Nov.pptx
+Interco Schedule II - 17th Nov.pptx
+ITO RoR Training material_R7V2.pptx
+Keops - General User Guide - T@is - 201406.pptx
+Keops General User Guide_Nov 2015.pptx
+Negative CTC & Warranty.pptx
+Negative CTC Process Map.pptx
+Negative CTC.pptx
+New DC-PC-AR Policy (Work Instructions).pptx
+October  PR .pptx
+PM function - Training on Quality Mgt System_v171016.pptx
+PM function - Training on Tableau tool_v171016.pptx
+Process Map.pptx
+Project Control training- October 16-final version.pptx
+Project governance cycle_rev2017.01.16 FD TP31012017.pptx
+Project Transformation Deck.pptx
+Projects Schedule II Update 061017 V1.pptx
+Projects Schedule II Update 3-AUG-17.pptx
+RAM - Overview 20170823.pptx
+Sector Review_Mar-17_14IN06.pptx
+SOP81-1-Warranty Process-June 2017.pptx
+SOX GRID Project Management review 2016 12 22 v2- Responses to KPMG.pptx
+TMabry - legacy EC HQ Cship CAS Update_101917.pptx
+TMabry - legacy EC HQ Cship CAS Update_102517.pptx
+Unifer Demo.pptx
+
+Read the following 5/6 scanned PDF documents:
+Advisory workpaper - TW links.pdf
+Alstom Grid - 16 03 2016 v2.pdf
+Alstom Grid_OI_FI 11  Project Reviews Financial Section Rev B.pdf
+Archive_20171TECASR_WPA_Foreign Exchange_GE GAP 830.10 Foreign Exchange.pdf
+ASC 605-35 Cycle Training.pdf
+
+Read the following 40/63 scanned DOCX documents:
+20152TPWADV01_Alstom_Integration___Finance_PPA_WPC.docx
+20153TPWADV13_Grid_Finance_WPC.docx
+20161TEMADV_Alstom Integration_Grid Finance_WPC.docx
+20162TECADV_Alstom Integration_Grid Finance_WPC.docx
+20171TCASR_ Grid Solutions_Project Close Out & DC-PC Account Rec Schedule II.docx
+20171TCASR_ Grid Solutions_RAI_Contingencies_End Margin Variation_Schedule II_051617.docx
+20171TCASR_ Grid Solutions_RAI_Contingencies_PMR Governance_Schedule II_Final.docx
+20171TCORPASR01 - schedule II - Energy Connections Grid Solutions - GRNI.docx
+20171TCORPASR01_ PS Schedule II_Factoring of RU debtrs' AR_May 18 2017.docx
+20171TECASR_WPA_Foreign Exchange.docx
+20171TECASR_WPA_SW Cap.docx
+20171TTECASR_Grid Balance Sheet Audit_WPA_AR.docx
+20171TTECASR_Grid Balance Sheet Audit_WPA_PMR_Reviewed.docx
+20171TTECASR_Grid Balance Sheet Audit_WPA_Tax.docx
+20172TCORPASR01 _Schedule II_70068_MX_Special Payments_Closure Documentation.docx
+20173TECASR01 _Schedule II_00058_Warranty_Closure Documentation.docx
+20173TECASR01 _Schedule II_01303_Embedded_Derivatives_Closure Documentation.docx
+20173TECASR01 _Schedule II_01315_Intercompany_Closure Documentation.docx
+20173TECASR01 _Schedule II_01325_DC_PC_AR_Closeout_Closure Documentation.docx
+20173TECASR01 _Schedule II_01327_RAI_Contingencies_NegCTC_Closeout_Closure Documentation.docx
+20173TECASR01 _Schedule II_01335_GRNI_Closure Documentation.docx
+Accounting for SOP 81-1 Contracts FINAL.docx
+Alstom Grid_OI_FI 19_cash collection 2013 09.docx
+Alstom Grid_OI_FI 54_Alnet Instruction 2013 10 17.docx
+Badr claim submission no 3.docx
+DC PC AR SCHEDULE II.docx
+FI 63 - Bad Debt Policy 3Q'16.docx
+FI 64 Alstom Warranty Reserve Policy FINAL 5_July_2017.docx
+FI62_Grid Solutions Revenue Recognition Policy_March 2016.docx
+GE GRID Sol_FX Instruction_FI 61_20160222.docx
+GO Alstom - Fixed Assets SII.docx
+Grid SII v SS II v Global SII.docx
+Hydro Brazil - AER GAAP to Stat 2017 03 29v21h_com comments Lidiane.docx
+ID_AP-2017-00026_AlstomRemeasurement.docx
+Mail Merge Email.docx
+New Warranty Policy.docx
+Original SII (1T17).docx
+RAI SCHEDULE II.docx
+SII Projects Team Memo.docx
+WPA_Template.docx
+----------------------
