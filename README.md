@@ -1,6 +1,7 @@
 # fileCrawler
 
 _run italicized lines in the command prompt window by copying & pasting them in and hitting enter_
+
 __bold items denote files and folders__
  
 1. download __imperative things__ folder
