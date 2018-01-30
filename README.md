@@ -7,6 +7,7 @@ __bold items denote files and folders__
 1. download __imperative things__ folder
 
 set up proxy
+
 **skip steps 2&3 if you are not connected to BLUESSO while following these instructions**
 
 2. _set HTTP_PROXY=http://iss-americas-pitc-cincinnatiz.proxy.corporate.ge.com:80_
